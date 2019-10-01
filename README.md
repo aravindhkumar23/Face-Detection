@@ -2,20 +2,6 @@
 
 A new Flutter application to detect faces using ml kit.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 # Flutter - Face Detection using ML kit
 
 Hi! in this project **google ML kit** is used to detect faces from the image.
@@ -51,3 +37,18 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 ![screen-1](screenshots/image1.jpeg)
 ![screen-2](screenshots/image2.jpeg)
+
+
+## Additional info - Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
