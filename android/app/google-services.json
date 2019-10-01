@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770033446113",
+    "firebase_url": "https://flutter-face-recognization.firebaseio.com",
+    "project_id": "flutter-face-recognization",
+    "storage_bucket": "flutter-face-recognization.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770033446113:android:3705979cb2f2d1b8ea1ba0",
+        "android_client_info": {
+          "package_name": "com.facedetection.flutter_face_detection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770033446113-qldc17qr5m61i08ah0827ebma8imqkb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcd3D5lltjp7uow7eeIaPpjwW8-5e2lg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770033446113-qldc17qr5m61i08ah0827ebma8imqkb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
