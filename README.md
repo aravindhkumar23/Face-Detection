@@ -46,3 +46,8 @@ All your files and folders are presented as a tree in the file explorer. You can
 - The face detector will return a list of Face class which contains the Rect coordinates.
 - The Painter will then use these coordinates to draw a rectangular box around the faces using these coordinates.
 - full source code available at ```lib/main.dart```.
+
+## Sample Screens
+
+![screen-1](screenshots/image1.jpeg)
+![screen-2](screenshots/image2.jpeg)
